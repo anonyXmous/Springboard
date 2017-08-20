@@ -1,2 +1,3 @@
 # Springboard
-Answers and documents related to springboard projects and requirements
+
+Answers to springboard projects and documents/requirements
